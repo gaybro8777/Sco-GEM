@@ -21,7 +21,7 @@ _Streptomyces coelicolor_ is a representative species of soil-dwelling, filament
 > TBA
 
 - Pubmed ID: TBA
-- doi: https://doi.org/10.1101/796722
+- doi: https://doi.org/10.1016/j.isci.2020.101525
 - Last update: 2019-10-04
 
 - The model contains:
