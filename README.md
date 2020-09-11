@@ -21,8 +21,7 @@ _Streptomyces coelicolor_ is a representative species of soil-dwelling, filament
   - doi: https://doi.org/10.1016/j.isci.2020.101525
   - Last update: 2019-10-04
 
-## The model contains:
-
+## The model contains
 | Taxonomy | Template Model | Reactions | Metabolites| Genes | Memote score |
 | ------------- |:-------------:|:-------------:|:-------------:|-----:|-----:|
 | _Streptomyces coelicolor_ A3(2) | iKS1317 | 2612 | 2073 | 1777 | 77%|
