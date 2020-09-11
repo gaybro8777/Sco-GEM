@@ -15,7 +15,7 @@ _Streptomyces coelicolor_ is a representative species of soil-dwelling, filament
 
 - Model KeyWords:
 
-**GEM Category:** Species; **Utilisation:** Predictive simulation; **Field:** Metabolic-network reconstruction; **Type of Model:** Reconstruction and refinement; **Model Source:** [iKS1317](http://dx.doi.org/); **Omic Source:** [Genomics](http://dx.doi.org/10.1038/417141a); **Taxonomy:** _Streptomyces coelicolor_; **Metabolic System:** General Metabolism; **Strain:** A3(2); **Condition:** Complex medium;
+**GEM Category:** Species; **Utilisation:** Predictive simulation; **Field:** Metabolic-network reconstruction; **Type of Model:** Reconstruction and refinement; **Model Source:** [iKS1317](http://dx.doi.org/); **Omic Source:** [Genomics](http://dx.doi.org/10.1038/417141a), [Transcriptomics](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE132487), [Proteomics](http://dx.doi.org/10.6019/PXD013178); **Taxonomy:** _Streptomyces coelicolor_; **Metabolic System:** General Metabolism; **Strain:** A3(2); **Condition:** Complex medium;
 
 - Reference:
   Sulheim, S., et al. "Enzyme-constrained models and omics analysis of Streptomyces coelicolor reveal metabolic changes that enhance heterologous production." iScience (2020): 101525.
